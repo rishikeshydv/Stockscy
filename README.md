@@ -1,3 +1,5 @@
+![stock](https://user-images.githubusercontent.com/70100426/212803962-4a11ba05-b894-4455-afb4-6ad0b93459a6.jpeg)
+
 Stockscy is a versatile data scraping tool that pulls individual and bulk stock data from Robinhood, Yahoo Finance and others
 Added additional features to graphically showcase the market values via Matplotlib and analyze them. 
 
